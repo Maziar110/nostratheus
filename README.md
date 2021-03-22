@@ -19,4 +19,4 @@ It fetches one or more metric/s for a defined period of time and then traines a 
 The `book_of_future.py` is responsible for training the model and runs just once to train model. You can run it your self or just run `pigeon.py` which is prometheus exporter and if there is no trained file, runs it and then exposes predicted values to prometheus.
 
 
-`If you had any question, feel free to be in touch with me`
+`If you had any question, feel free to be in touch with me via maziar.sh110[@]gmail.com`
